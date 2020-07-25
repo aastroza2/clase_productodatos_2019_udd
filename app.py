@@ -25,7 +25,7 @@ path = Path("models")
 learn = load_learner(path)
 
 
-print('INICIO DE APP')
+print('INICIO DE APP LOCAL')
 
 def model_predict(img_path):
     """
